@@ -1,0 +1,28 @@
+﻿@model BoatsRentingSystem.MVC.Models.BoatViewModel
+
+@{
+    ViewData["Title"] = "Boat Details";
+}
+
+<h2>Boat Details</h2>
+
+<div>
+    <h4>Boat</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Name</dt>
+        <dd>@Model.Name</dd>
+        <dt>Type</dt>
+        <dd>@Model.Type</dd>
+        <dt>Capacity</dt>
+        <dd>@Model.Capacity</dd>
+        <dt>Price Per Hour</dt>
+        <dd>@Model.PricePerHour</dd>
+        <dt>Availability</dt>
+        <dd>@Model.Availability</dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.BoatId" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

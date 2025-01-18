@@ -1,0 +1,41 @@
+﻿@model IEnumerable<BoatsRentingSystem.MVC.Models.ReservationViewModel>
+
+@{
+    ViewData["Title"] = "Reservations";
+}
+
+<h2>Reservations</h2>
+
+<p>
+    <a href="/Reservations/Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Boat</th>
+            <th>Customer</th>
+            <th>Start Time</th>
+            <th>End Time</th>
+            <th>Total Price</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Boat.Name</td>
+            <td>@item.Customer.FirstName @item.Customer.LastName</td>
+            <td>@item.StartTime</td>
+            <td>@item.EndTime</td>
+            <td>@item.TotalPrice</td>
+            <td>@item.Description</td>
+            <td>
+                <a href="/Reservations/Edit/@item.ReservationId">Edit</a> |
+                <a href="/Reservations/Details/@item.ReservationId">Details</a> |
+                <a href="/Reservations/Delete/@item.ReservationId">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

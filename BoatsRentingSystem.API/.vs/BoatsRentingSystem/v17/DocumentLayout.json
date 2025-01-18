@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\controllers\\boatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:controllers\\boatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\controllers\\boatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\models\\boatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\models\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem\\boatsrentingsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C3D8E11B-5815-4375-8A20-CC37E6B5D002}|BoatsRentingSystem.API.csproj|solutionrelative:boatsrentingsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\views\\boats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\views\\boats\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\views\\boats\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20098752-C395-4A96-B482-77D248F74B5F}|..\\BoatsRentingSystem.MVC\\BoatsRentingSystem.MVC.csproj|c:\\users\\kok4o\\desktop\\boatsrentingsystem.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:32:38.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Models\\Reservation.cs",
+              "RelativeToolTip": "Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:28:36.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Models\\Boat.cs",
+              "RelativeDocumentMoniker": "Models\\Boat.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Models\\Boat.cs",
+              "RelativeToolTip": "Models\\Boat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:22:07.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:20:17.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:16:58.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoatsController.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Controllers\\BoatsController.cs",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Controllers\\BoatsController.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Controllers\\BoatsController.cs",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Controllers\\BoatsController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAADwv4AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:57:42.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:04:58.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T10:07:34.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Program.cs",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:00:12.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T10:02:57.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T12:12:35.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoatsController.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Controllers\\BoatsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BoatsController.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Controllers\\BoatsController.cs",
+              "RelativeToolTip": "Controllers\\BoatsController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwvwcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:08:12.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T10:12:33.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T10:02:43.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoatViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Models\\BoatViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Models\\BoatViewModel.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Models\\BoatViewModel.cs",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Models\\BoatViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:42:55.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\appsettings.json",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T10:00:32.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BoatsRentingSystem.API",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\BoatsRentingSystem.API.csproj",
+              "RelativeDocumentMoniker": "BoatsRentingSystem.API.csproj",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem\\BoatsRentingSystem.API.csproj",
+              "RelativeToolTip": "BoatsRentingSystem.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T09:55:51.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Models\\ReservationViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Models\\ReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Models\\ReservationViewModel.cs",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Models\\ReservationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:43:45.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:43:41.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Models\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Models\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Models\\CustomerViewModel.cs",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Models\\CustomerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:43:19.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Boats\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Views\\Boats\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Boats\\Index.cshtml",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Views\\Boats\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:41:26.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:02:46.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Boats\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Views\\Boats\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Boats\\Delete.cshtml",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Views\\Boats\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:41:09.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Boats\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Views\\Boats\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Boats\\Details.cshtml",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Views\\Boats\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:41:10.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:40:56.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:09:17.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:02:35.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "..\\BoatsRentingSystem.MVC\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\kok4o\\Desktop\\BoatsRentingSystem.MVC\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "..\\BoatsRentingSystem.MVC\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAUwGgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:57:09.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

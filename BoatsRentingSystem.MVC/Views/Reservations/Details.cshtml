@@ -1,0 +1,30 @@
+﻿@model BoatsRentingSystem.MVC.Models.ReservationViewModel
+
+@{
+    ViewData["Title"] = "Reservation Details";
+}
+
+<h2>Reservation Details</h2>
+
+<div>
+    <h4>Reservation</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Boat</dt>
+        <dd>@Model.Boat.Name</dd>
+        <dt>Customer</dt>
+        <dd>@Model.Customer.FirstName @Model.Customer.LastName</dd>
+        <dt>Start Time</dt>
+        <dd>@Model.StartTime</dd>
+        <dt>End Time</dt>
+        <dd>@Model.EndTime</dd>
+        <dt>Total Price</dt>
+        <dd>@Model.TotalPrice</dd>
+        <dt>Description</dt>
+        <dd>@Model.Description</dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ReservationId" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
